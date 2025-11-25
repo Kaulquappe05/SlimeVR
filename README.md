@@ -5,7 +5,7 @@ Notable changes to the original design:
 1. Removed the tray and the strap holder.
 2. Added strap holders to the main body, making it an all-in-one unit.
 3. Changed the battery dimensions to fit a 401030 LiPo battery.
-4. Added an opening to include a mini (MSK/01S G1.5) switch on the side of the case to turn them off completely.
+4. Added an opening to include a mini (MSK/01S G1.5) switch on the side of the case between the batteries and the NRF52840 board to turn them off completely.
 
 The wiring follows the original small SlimeVR design for the ICM-45686 + QMC6309 IMUs. The charging board is wired pretty simply; it's just all the ports in parallel (therefore, no data connection).
 
