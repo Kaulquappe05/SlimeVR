@@ -25,7 +25,7 @@ Part list for the receiver:
 Part list for the 10-port USB-C charger:
 1. 1 6-pin USB-C female port with mounting plates 5pcs 1.80€ (https://a.aliexpress.com/_Evo8X5e)
 2. 10 USB-C male ports with vertical patch board 10pcs 4.00€ (https://a.aliexpress.com/_Eu0OjGc)
-3. 3 10x5 mm N52 neodymium magnets.0.60€ apiece (https://www.mtsmagnete.de/neodym-scheiben-magnete/scheiben-10mm-19mm/neodym-scheibenmagnet-10x5mm-vernickelt-grade-n52-magnetisiert-durch-5mm/a-2504)
-4. 6 M2 15 mm bolts 
+3. 5 8x2 mm N52 neodymium magnets.0.36€ apiece (https://www.mtsmagnete.de/neodym-scheiben-magnete/scheiben-1mm-9mm/neodym-scheibenmagnet-8x2mm-vernickelt-grade-n52-magnetisiert-durch-2mm/a-2715)
+4. 6 M2 10 mm bolts 
 
 
